@@ -22,5 +22,5 @@ n=int(input("Enter number: "))
 print(power_2(n))
         
         
-        
+
     
